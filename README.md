@@ -1,19 +1,22 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14228768&assignment_repo_type=AssignmentRepo)
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# Spectro Buddy
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+O projeto objetiva ajudar pessoas do espectro autista a serem mais
+independentes auxiliando no controle dos remédios que devem ser tomados, no
+controle de crises e no acompanhamento das tarefas diárias; auxiliando, assim,
+no desenvolvimento intelectual, cognitivo e social dos usuários. Esses objetivos
+foram traçados tendo em vista a dificuldade que essas pessoas possuem em
+realizar tarefas simples do cotidiano, muitas vezes as tornando dependentes de
+um outro alguém.
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Gabriel Luís Pinto Cecconello](https://github.com/gabrielcecconello)
+* [Leonardo Piuzana Pizani](https://github.com/LeoPizani)
+* [Paula Cristina Talim Gonçalves](https://github.com/paulatalim)
+* [Rafael Vicente Souza E Paula](https://github.com/Fael2)
 
 ## Professor responsável
 
