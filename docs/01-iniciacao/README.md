@@ -257,4 +257,4 @@ A tabela a seguir apresenta as restrições do projeto.
 > Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
 > Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-> - [Termo de Abertura do Projeto](./artefatos/Termo%20de%20Abertura%20de%20Projeto.pdf)
+git - [Termo de Abertura do Projeto](./artefatos/Termo%20de%20Abertura%20de%20Projeto.pdf)
