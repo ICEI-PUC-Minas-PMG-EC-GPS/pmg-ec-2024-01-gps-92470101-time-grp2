@@ -263,4 +263,4 @@ A tabela a seguir apresenta as restrições do projeto.
 > Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
 > Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+> - [Termo de Abertura do Projeto](./artefatos/Termo%20de%20Abertura%20de%20Projeto.pdf)
