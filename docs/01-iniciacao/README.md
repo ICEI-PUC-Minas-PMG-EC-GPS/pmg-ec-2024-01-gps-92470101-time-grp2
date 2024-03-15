@@ -230,8 +230,8 @@ A tabela a seguir apresenta as restrições do projeto.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
+| Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/7/views/1 | Centralização e organização do projeto no próprio repositório. |
+| Repositório de código | GitHub             | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-grp2 |               |
 | Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
@@ -241,17 +241,12 @@ A tabela a seguir apresenta as restrições do projeto.
 
 # Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
-
 ## Declaração de Escopo
 
-> Você deve preencher o seguinte documento:
 - [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
 ## Registro de Partes Interessadas
 
-> Você deve preencher o seguinte documento:
 - [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Termo de Abertura do Projeto (TAP)
@@ -262,5 +257,4 @@ A tabela a seguir apresenta as restrições do projeto.
 > Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
 > Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-> Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+> - [Termo de Abertura do Projeto](./artefatos/Termo%20de%20Abertura%20de%20Projeto.pdf)
