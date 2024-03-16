@@ -33,24 +33,24 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A falta de independência de pessoas com Transtorno do Espectro Autista possuem no dia a dia é uma questãoo que afeta consideravelmente a qualidade de vida desses indivíduos.
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
+<!-- > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
 > Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
 > Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+> Soluções para o problema devem ser descritas na seção correspondente. -->
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo do projeto é ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e autônomas. Sendo assim, o projeto visa ter um controle de remédios e de dosagens e do usuario, acompanhar suas tarefas rotineiras por meio de agenda inteligente e possuir funcionalidades para relaxar e para monitorar o usuário em caso de crises.
 
-> Aqui você deve descrever os objetivos do trabalho.
+<!-- > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
 > Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
 > 
 > **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/) -->
 
  
 # Especificações do Projeto
@@ -174,13 +174,13 @@ A tabela a seguir apresenta as restrições do projeto.
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos       | Funcionário do setor financeiro| 800 | R$ 28,00 |   22400,00 |
+| Hardware               | SmartWacth | 0          | R$ 0,00      | R$ 0,00     |
+| Serviços de Rede       |      -     | 0          | R$ 0,00      | R$ 0,00     |
+| Hospedagem e Nuvem     | Github     | 2000       | R$ 0,00      | R$ 0,00     |
+| Software de terceiros  | Firebase, Font Awesome | 2000          | R$ 0,00      | R$ 0,00     |
+| Serviços e treinamento |            | 2000       | R$ 100,00    | R$ 200000,00|
+| **Total Geral**        |            | 6880       | R$ 128,21    | R$ 223000,00|
 
 
 ## Estimativa de Prazo
