@@ -241,7 +241,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
+| EAP / WBS             | Miro               | https://miro.com/app/board/uXjVNgV2U68=/?share_link_id=486322437169| |
 | Cronograma do Projeto | | | |
 | Matriz RACI           | | | |
 
