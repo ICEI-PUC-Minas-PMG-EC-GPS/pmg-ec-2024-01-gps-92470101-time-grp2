@@ -77,6 +77,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Usuário do sistema  | Notificações das minhas tarefas    | Ter o suporte que preciso              |
+|Usuário do sistema  | Ter a opção de controle de remedios e crises | Ter o suporte que preciso    |
+|Usuário do sistema  | O aplicativo conecte ao meu smartwatch | Possa ter o suporte que preciso rapidamente |
+|Usuário do sistema  | Funcionalidades para tranquilizar  | Me ajudar durante alguma crises        |
+|Usuário do sistema responsável de pessoa do TEA | Conectar ao aplicativo do usuario com TEA | Auxiliar no suporte que o usuario precisa |
+|Usuário do sistema não verbal | Pictogramas no aplicativo| Conseguir entende-lo                   |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
@@ -231,7 +237,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/7/views/1 | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-grp2 |               |
+| Repositório de código | GitHub             | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-grp2 | Hospedagem |
 | Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
