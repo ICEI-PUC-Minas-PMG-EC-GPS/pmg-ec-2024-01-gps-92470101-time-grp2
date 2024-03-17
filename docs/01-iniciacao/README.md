@@ -184,7 +184,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Hardware               | SmartWacth | 0          | R$ 0,00      | R$ 0,00     |
 | Serviços de Rede       |      -     | 0          | R$ 0,00      | R$ 0,00     |
 | Hospedagem e Nuvem     | Github     | 2000       | R$ 0,00      | R$ 0,00     |
-| Software de terceiros  | Firebase, Font Awesome | 2000          | R$ 0,00      | R$ 0,00     |
+| Software de terceiros  | Banco de dados, icones e pictogramas | 2000          | R$ 0,00      | R$ 0,00     |
 | Serviços e treinamento |            | 2000       | R$ 100,00    | R$ 200000,00|
 | **Total Geral**        |            | 6880       | R$ 128,21    | R$ 223000,00|
 
