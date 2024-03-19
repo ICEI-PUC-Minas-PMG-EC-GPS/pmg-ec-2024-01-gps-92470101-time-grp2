@@ -249,7 +249,7 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Declaração de Escopo
 
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](artefatos/declaracao-escopo.pdf)
 
 ## Registro de Partes Interessadas
 
