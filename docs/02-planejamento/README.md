@@ -199,7 +199,7 @@
 ## Matriz de Responsabilidades (RACI)
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](artefatos/MatrizRACI.pdf)
 
 ## Plano de Gerenciamento de Comunicação
 
