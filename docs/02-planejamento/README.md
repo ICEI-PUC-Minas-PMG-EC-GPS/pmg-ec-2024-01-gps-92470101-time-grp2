@@ -77,7 +77,8 @@
 
 # Cronograma do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- [Documento nativo do cronograma](./artefatos/cronograma/Cronograma.pod)
+- [Documento do cro]
 
 > O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
 > Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
@@ -189,7 +190,7 @@
 ## Escopo, Cronograma e Orçamento
 
 > Você deve preencher o seguinte documento:
-- [Cronograma e Orçamento do Projeto](artefatos/cronograma_orcamento.pod)
+- [Cronograma e Orçamento do Projeto](./artefatos/cronograma/Cronograma.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
