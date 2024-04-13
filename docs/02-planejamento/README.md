@@ -77,8 +77,7 @@
 
 # Cronograma do Projeto
 
-- [Documento nativo do cronograma](./artefatos/cronograma/Cronograma.pod)
-- [Documento do cro]
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
 > Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
