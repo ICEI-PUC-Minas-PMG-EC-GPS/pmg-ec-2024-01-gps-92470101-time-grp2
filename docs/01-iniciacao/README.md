@@ -242,8 +242,8 @@ A tabela a seguir apresenta as restrições do projeto.
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 | EAP / WBS             | Miro               | https://miro.com/app/board/uXjVNgV2U68=/?share_link_id=486322437169| |
-| Cronograma do Projeto | ProjectLibre | https://www.projectlibre.com | |
-| Matriz RACI           | Microsoft Word | https://www.microsoft.com/pt-br/microsoft-365/word | |
+| Cronograma do Projeto | ProjectLibre       | https://www.projectlibre.com | |
+| Matriz RACI           | Microsoft Word     | https://www.microsoft.com/pt-br/microsoft-365/word | |
 
 # Documentos
 
