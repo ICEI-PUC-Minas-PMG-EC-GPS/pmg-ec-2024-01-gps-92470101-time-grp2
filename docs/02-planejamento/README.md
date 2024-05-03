@@ -32,8 +32,6 @@
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
 > Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
 > Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
@@ -50,8 +48,6 @@
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
 > Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
@@ -67,8 +63,6 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
 > O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
 > A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
@@ -77,16 +71,12 @@
 
 # Cronograma do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
 > Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
 > Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
 > Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
 # Orçamento do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
 > O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
@@ -96,8 +86,6 @@
 
 # Planos de Gerenciamento
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
 > Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, qualidade, recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
 > Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
@@ -105,15 +93,11 @@
 
 ## Plano de Comunicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
 
 ## Plano de Qualidade
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
 > Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
@@ -140,8 +124,6 @@
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 
 > O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
 > Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
@@ -153,8 +135,6 @@
 > Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
 
 ## Plano de Aquisição
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
 > Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
@@ -178,17 +158,14 @@
 
 ## Aquisição de Produtos
 
-> Você deve preencher o seguinte documento:
 - [Declaração de Escopo](artefatos/aquisicao_produtos.docx)
 
 ## Checklist de Qualidade
 
-> Você deve preencher o seguinte documento:
 - [Checklist de Qualidade](./artefatos/Plano_de_Qualidade.pdf)
 
 ## Escopo, Cronograma e Orçamento
 
-> Você deve preencher o seguinte documento:
 - [Cronograma e Orçamento do Projeto](./artefatos/cronograma/Cronograma.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
@@ -198,7 +175,6 @@
 
 ## Matriz de Responsabilidades (RACI)
 
-> Você deve preencher o seguinte documento:
 - [Declaração de Escopo](artefatos/MatrizRACI.pdf)
 
 ## Plano de Gerenciamento de Comunicação
