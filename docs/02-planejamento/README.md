@@ -166,7 +166,7 @@
 
 ## Escopo, Cronograma e Orçamento
 
-- [Cronograma e Orçamento do Projeto](./artefatos/cronograma/Cronograma.pod)
+- [Cronograma e Orçamento do Projeto](./artefatos/cronograma_orcamento.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
