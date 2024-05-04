@@ -68,7 +68,6 @@
 > A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
 > Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
 
-
 # Cronograma do Projeto
 
 > O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
@@ -124,7 +123,6 @@
 
 ## Plano de Riscos
 
-
 > O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
 > Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
 > Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
@@ -143,13 +141,10 @@
 
 ## Plano de Gestão de RH
 
-......  *(OPCIONAL)* COLOQUE AQUI O SEU TEXTO ......
-
 > O Plano de Gestão de Recursos Humanos (RH) estabelece estratégias para o gerenciamento eficaz da equipe.
 > Este plano abrange aspectos como a identificação das necessidades de recursos humanos, a alocação de pessoal, o desenvolvimento de competências, a definição de papéis e responsabilidades, e estratégias de motivação e retenção da equipe. 
 > Este plano visa otimizar o desempenho da equipe, promovendo um ambiente de trabalho colaborativo, em que as habilidades certas estejam disponíveis no momento adequado. 
 > Além disso, aborda a comunicação interna, resolução de conflitos e planos de desenvolvimento profissional. 
-
 
 # Documentos
 
@@ -170,7 +165,6 @@
 
 ## Estrutura Analítica do Projeto (EAP)
 
-> Você deve preencher o seguinte documento:
 - [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
 
 ## Matriz de Responsabilidades (RACI)
@@ -179,10 +173,8 @@
 
 ## Plano de Gerenciamento de Comunicação
 
-> Você deve preencher o seguinte documento:
 - [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.docx)
 
 ## Plano de Gerenciamento de Riscos
 
-> Você deve preencher o seguinte documento:
 - [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
