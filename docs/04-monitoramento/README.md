@@ -49,20 +49,18 @@
 
 ## Insights do repositório
 
-......  ATUALIZE AS IMAGENS MENSALMENTE ......
-
 > Os insights do repositório indicam a quantidade de commits realizados, quantidade de tarefas fechadas, problemas levantados no software, entre outras métricas.
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
 **Insight - Mês Março**
-![Insight - Mês Fevereiro](images/insights.png)
+![Insight - Mês Fevereiro](images/insights-fevereiro.png)
 
 **Insight - Mês Abril**
-> Adicione aqui insights do mês de Abril.
-![Insight - Mês Março](images/insight-05-03_05-04.png)
+![Insight - Mês Março](images/insight-marco.png)
+
 **Insight - Mês Maio**
-> Adicione aqui insights do mês de Maio.
 ![Insight - Mês Abril](images/insight-abril.png)
+
 **Insight - Mês Junho**
 > Adicione aqui insights do mês de Junho.
 
