@@ -33,7 +33,8 @@
 
 ## Problema
 
-A falta de independência de pessoas com Transtorno do Espectro Autista possuem no dia a dia é uma questãoo que afeta consideravelmente a qualidade de vida desses indivíduos.
+A falta de independência de pessoas com Transtorno do Espectro Autista possuem no 
+dia a dia é uma questãoo que afeta consideravelmente a qualidade de vida desses indivíduos.
 
 <!-- > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
@@ -43,7 +44,11 @@ A falta de independência de pessoas com Transtorno do Espectro Autista possuem 
 
 ## Objetivos
 
-O objetivo do projeto é ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e autônomas. Sendo assim, o projeto visa ter um controle de remédios e de dosagens e do usuario, acompanhar suas tarefas rotineiras por meio de agenda inteligente e possuir funcionalidades para relaxar e para monitorar o usuário em caso de crises.
+O objetivo do projeto é ajudar pessoas com Transtorno do Espectro Autista 
+a serem mais independentes e autônomas. Sendo assim, o projeto visa ter um 
+controle de remédios e de dosagens e do usuario, acompanhar suas tarefas 
+rotineiras por meio de agenda inteligente e possuir funcionalidades para 
+relaxar e para monitorar o usuário em caso de crises.
 
 <!-- > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
@@ -57,8 +62,7 @@ O objetivo do projeto é ajudar pessoas com Transtorno do Espectro Autista a ser
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
+> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar as especificações do projeto.
 
 ## Critérios de Sucesso
 
@@ -158,17 +162,24 @@ A tabela a seguir apresenta as restrições do projeto.
 
 # Partes Interessadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- > Relacione as partes interessadas no seu projeto.  -->
+<!-- > Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto. -->
+<!-- > Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto. -->
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+| Nome                                  | Expectativas no projeto              | Influência |	Importância / Poder	| Apoio    |
+|---------------------------------------|--------------------------------------|------------|---------------------|----------|
+| Gabriel Luís                          |	Desing                               | Baixa      | Baixa               | Apoiador |
+| Leornado Piuzana                      |	Desenvolvedor                        | Baixa      | Baixa               | Apoiador |
+| Paula Talim	                          | Gerenciar projeto                    | Média      | Média               | Apoiador |
+| Rafael Vicente                        |	Gerenciar banco de dados	           | Baixa      | Baixa               | Apoiador |
+| Profissionais da área de saúde mental |	Promover o projeto	                 | Alta	      | Média               | Apoiador |
+| Usuários com TEA e seus cuidadores    |	Opnião pública                       | Alta	      | Alta	              | Neutro   |
+| Lojas de aplicativo	                  | Acessibilidade do público ao projeto | Alta	      | Alta                | Apoiador |
+
 
 # Estimativa de Custo e Prazo
 
 ## Estimativa de Custo
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
@@ -176,35 +187,28 @@ A tabela a seguir apresenta as restrições do projeto.
 > A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
 > Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
 
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
-
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos       | Funcionário do setor financeiro| 800 | R$ 28,00 |   22400,00 |
-| Hardware               | SmartWacth | 0          | R$ 0,00      | R$ 0,00     |
-| Serviços de Rede       |      -     | 0          | R$ 0,00      | R$ 0,00     |
-| Hospedagem e Nuvem     | Github     | 2000       | R$ 0,00      | R$ 0,00     |
-| Software de terceiros  | Banco de dados, icones e pictogramas | 2000          | R$ 0,00      | R$ 0,00     |
-| Serviços e treinamento |            | 2000       | R$ 100,00    | R$ 200000,00|
-| **Total Geral**        |            | 6880       | R$ 128,21    | R$ 223000,00|
+| Recursos Humanos        | Funcionário do setor financeiro | 800 | R$ 28,00 |   22400,00 |
+| Hardware                | SmartWacth | 0          | R$ 0,00      | R$ 0,00     |
+| Serviços de Rede        |      -     | 0          | R$ 0,00      | R$ 0,00     |
+| Hospedagem e Nuvem      | Github     | 2000       | R$ 0,00      | R$ 0,00     |
+| Software de terceiros   | Banco de dados, icones e pictogramas | 2000          | R$ 0,00      | R$ 0,00     |
+| Serviços e treinamento  |            | 2000       | R$ 100,00    | R$ 200000,00|
+| **Total Geral**         |            | 6880       | R$ 128,21    | R$ 223000,00|
 
 
 ## Estimativa de Prazo
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
 > Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
 > Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
 
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
+ - Prazo previsto (em horas) : 320 horas
+ - Data de início : 12/04/2024 08:00
+ - Data de término : 28/05/2024 08:00
 
 # Metodologia
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
 >
@@ -220,10 +224,15 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 > Indique as responsabilidades de cada membro do grupo no projeto.
+
+| Membro         | Papel                       |
+|----------------|-----------------------------|
+| Lornado Pizani | Gerência de Desenvolvimento |
+| Gabriel Luís   | Gerência do Front-end       |
+| Paula Talim    | Gerência de Tarefas         |
+| Rafael Vicente | Gerência do Banco de Dados  |
 
 ## Ferramentas
 
