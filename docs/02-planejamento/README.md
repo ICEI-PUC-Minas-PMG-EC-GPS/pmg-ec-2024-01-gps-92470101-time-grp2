@@ -153,7 +153,7 @@
 
 ## Aquisição de Produtos
 
-- [Declaração de Escopo](artefatos/aquisicao_produtos.docx)
+- [Declaração de Escopo](artefatos/aquisicao_produtos.pdf)
 
 ## Checklist de Qualidade
 
