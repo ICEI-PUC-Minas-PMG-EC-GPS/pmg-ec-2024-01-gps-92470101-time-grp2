@@ -173,7 +173,7 @@
 
 ## Plano de Gerenciamento de Comunicação
 
-- [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.docx)
+- [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.pdf)
 
 ## Plano de Gerenciamento de Riscos
 
