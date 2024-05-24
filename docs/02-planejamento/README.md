@@ -177,4 +177,4 @@
 
 ## Plano de Gerenciamento de Riscos
 
-- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
+- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.xlsx)
