@@ -6,14 +6,6 @@
 > Além disso, o monitoramento constante é essencial para garantir que o projeto esteja avançando conforme o planejado, e ajustes são feitos conforme necessário. 
 > A fase de execução é o momento em que o trabalho tangível é realizado, e a eficácia nessa etapa contribui diretamente para o sucesso geral do projeto.
 
-```diff
-- Esta seção irá simular a execução do projeto. 
-- Devido às características da disciplina, não será possível implementar o software (tempo insuficiente).
-- Com isso, apenas simularemos a construção do sistema nesta etapa.
-- Para isso, serão criados protótipos navegáveis, representando aquilo que seria desenvolvido em termos de interface.
-- Diagramas arquiteturais, de banco de dados e de classe representarão a modelagem e implementação do código-fonte.
-```
-
 # Estrutura do Documento
 
 - [Fase de Execução](#execução)
@@ -26,13 +18,22 @@
 
 # Interfaces do Sistema
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+ Os protótipos navegáveis oferecem uma representação interativa das interfaces e funcionalidades do sistema antes da implementação final. 
+ Esses protótipos permitem que os usuários experimentem a navegação real entre telas e interajam com elementos de interface, proporcionando uma visão prática do design proposto. 
+ Ao criar protótipos navegáveis, os desenvolvedores podem validar conceitos, testar a usabilidade e obter feedback de stakeholders e usuários finais. 
+ Essa abordagem contribui para a detecção precoce de possíveis problemas de usabilidade, refinando o design e economizando tempo e recursos durante o ciclo de desenvolvimento. Sendo assim, a seguir está os Diagramas de Fluxo do Usuário desenvolvidos para cada aplicativo do projeto.
 
-> Os protótipos navegáveis oferecem uma representação interativa das interfaces e funcionalidades do sistema antes da implementação final. 
-> Esses protótipos permitem que os usuários experimentem a navegação real entre telas e interajam com elementos de interface, proporcionando uma visão prática do design proposto. 
-> Ao criar protótipos navegáveis, os desenvolvedores podem validar conceitos, testar a usabilidade e obter feedback de stakeholders e usuários finais. 
-> Essa abordagem contribui para a detecção precoce de possíveis problemas de usabilidade, refinando o design e economizando tempo e recursos durante o ciclo de desenvolvimento. 
->
+> Observação: Clique nos *Diagramas de Fluxo do Usuário* a seguir para acessar seu protótipo navegável.
+
+## Aplicativo para Smartwatch
+
+[![fluxograma app smartwatch](./images/interfaces_spectroVerde.png)](https://www.figma.com/proto/NRsvA6N286mr4Tv7cBRT9A/SpectroBuddy?node-id=211-173&t=P0AIL9t6NrjiREgO-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=211%3A173&show-proto-sidebar=1)
+
+## Aplicativo para pessoas com Transtono do Espectro Autista de nível 1
+
+[![fluxograma app spectroAzul](./images/interfaces_spectroAzul.png)](https://www.figma.com/proto/NRsvA6N286mr4Tv7cBRT9A/SpectroBuddy?node-id=204-69&t=P0AIL9t6NrjiREgO-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=204%3A69&show-proto-sidebar=1)
+
+<!-- >
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
@@ -40,7 +41,7 @@
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![Exemplo de UserFlow](images/userflow.jpg) -->
 
 # Modelagem da Solução
 
@@ -52,7 +53,6 @@
 > A modelagem de software abrange diversas técnicas, como diagramas de classes, diagramas de sequência e diagramas de caso de uso, proporcionando uma representação visual clara das relações e funcionalidades do sistema. 
 > Essa abordagem facilita a identificação precoce de requisitos e a detecção de inconsistências. 
 > Além disso, a modelagem contribui para a documentação eficaz, permitindo uma compreensão mais abrangente do software antes mesmo de sua implementação. 
-
 
 ## Arquitetura da solução
 
