@@ -165,7 +165,7 @@
 
 ## Estrutura Analítica do Projeto (EAP)
 
-- [Estrutura Analítica do Projeto](artefatos/eap.jpg)
+- [Estrutura Analítica do Projeto](./images/eap.jpg)
 
 ## Matriz de Responsabilidades (RACI)
 
