@@ -16,16 +16,13 @@
 
 # Encerramento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
 > Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
-> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto. 
-
+> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto.
 
 # Lições Aprendidas 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A jornada para o desenvolvimento nos gerou vários aprendizados, tal como a utilização da ferramenta Project Libre, a qual foi útil para o planejamento de requisitos como cronograma, gastos, responsáveis e tarefas. Além disso, saber elaborar um EAP se tornou uma habilidade bem importante para as nossas carreiras, uma vez que a visualização do escopo de projetos é algo que melhora a produtividade. A criação de grandes projetos de interfaces acessíveis, necessitava grande organização e pesquisa para desenvolvê-las, o que gerou experiência e conhecimento na área de planejamento de Front-end. A utilização da funcionalidade do Kaban, no Github, teve um grande impacto na organização das tarefas do projeto, sendo um aprendizado importante para outros projetos futuros. Por fim, aprendemos que todo o tipo de projeto, qualquer que seja o seu tamanho, possui a sua importância e envolve diversos riscos que devem ser considerados durante o processo para a obtenção do sucesso.
 
 > A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. 
 > Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. 
@@ -46,9 +43,4 @@
 
 # Sugestões e Críticas
 
-......  COLOQUE AQUI O SEU TEXTO *(OPCIONAL)* ......
-
-> **Esta seção normalmente não existe em projetos. Foi adicionada neste documento apenas no contexto da disciplina.**
->
-> Utilize esta seção para indicar sugestões e críticas acerca da disciplina e do formato aqui trabalhado.
-> Tanto sugestões quanto críticas são sempre bem vindas!
+Acreditamos que a abordagem da disciplina poderia ser diferente, de maneira que, ao invés de simular a criação de um projeto aplicando os conceitos de gerência, poderíamos fazer estudo de caso de projetos existentes de empresas, apontando possíveis falhas e/ou acertos na gerência do projeto.
