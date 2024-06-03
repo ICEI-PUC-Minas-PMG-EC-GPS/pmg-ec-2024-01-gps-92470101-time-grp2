@@ -74,20 +74,33 @@ relaxar e para monitorar o usuário em caso de crises.
  
 ## Histórias de Usuários
 
-......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
+<!-- ......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ...... -->
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Usuário do sistema  | Notificações das minhas tarefas    | Ter o suporte que preciso              |
-|Usuário do sistema  | Ter a opção de controle de remedios e crises | Ter o suporte que preciso    |
-|Usuário do sistema  | O aplicativo conecte ao meu smartwatch | Possa ter o suporte que preciso rapidamente |
-|Usuário do sistema  | Funcionalidades para tranquilizar  | Me ajudar durante alguma crises        |
-|Usuário do sistema responsável de pessoa do TEA | Conectar ao aplicativo do usuario com TEA | Auxiliar no suporte que o usuario precisa |
-|Usuário do sistema não verbal | Pictogramas no aplicativo| Conseguir entende-lo                   |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`       | QUERO/PRECISO ... `FUNCIONALIDADE`           |PARA ... `MOTIVO/VALOR`                               |
+|---------------------------|----------------------------------------------|------------------------------------------------------|
+|Usuário do Spectro Azul    | Registrar minhas tarefas                     | Não esquecer de fazê-las                             |
+|Usuário do Spectro Laranja | Registrar tarefas da pessoa com TEA          | A pessoa com TEA não esquecer de fazê-las            |
+|Usuário do Spectro Verde   | Visualizar minhas tarefas                    | Não esquecer de fazê-las                             |
+|Usuário do Spectro Azul    | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
+|Usuário do Spectro Roxo    | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
+|Usuário do Spectro Verde   | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
+|Usuário do Spectro Azul    | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
+|Usuário do Spectro Roxo    | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
+|Usuário do Spectro Verde   | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
+|Usuário do Spectro Azul    | Ter a opção de controle de remédios e crises | Ter o suporte que preciso                            |
+|Usuário do Spectro Laranja | Ter a opção de controle de remédios e crises | Ter noção do estado da pessoa com TEA                |
+|Usuário do Spectro Azul    | O aplicativo conecte ao meu smartwatch       | Possa ter o suporte que preciso rapidamente          |
+|Usuário do Spectro Laranja | O aplicativo conecte ao meu smartwatch       | A pessoa com TEA que cuido tenha suporte mais rápido |
+|Usuário do Spectro Azul    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crises                      |
+|Usuário do Spectro Roxo    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crises                      |
+|Usuário do Spectro Verde   | Funcionalidades para tranquilizar            | Me ajudar durante alguma crises                      |
+|Usuário do Spectro Roxo    | Pictogramas no aplicativo                    | Conseguir entende-lo                                 |
+|Usuário do Spectro Roxo    | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
+|Usuário do Spectro Azul    | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
+|Usuário do Spectro Verde   | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
+|Administrador              | Alterar permissões                           | Permitir que possam administrar contas               |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
 > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
@@ -128,27 +141,51 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
+<!-- ......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ...... -->
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito                                                                   | Prioridade |
+|------|------------------------------------------------------------------------------------------|-------|
+|RF-001| Permitir que o usuário cadastre tarefas                                                  | ALTA  | 
+|RF-002| Emitir um relatório de tarefas no mês                                                    | MÉDIA |
+|RF-003| Permitir que o usuário registre crises                                                   | ALTA  |
+|RF-004| Permitir que o usuário realize exercício de respiração                                   | MÉDIA |
+|RF-005| Permitir que o usuário visualize gráfico gerados com dados da crises                     | BAIXA |
+|RF-006| Permitir que o usuário edite crises registradas                                          | ALTA  |
+|RF-007| Permitir que o usuário delete crises                                                     | ALTA  |
+|RF-008| Permitir que o usuário edite tarefas                                                     | ALTA  |
+|RF-009| Permitir que o usuário exclua tarefas                                                    | ALTA  |
+|RF-010| Permitir que o usuário visualize as tarefas                                              | ALTA  |
+|RF-011| Permitir que o usuário do Spectro Laranja personalize as funcionalidades do Spectro Roxo | ALTA  |
+|RF-012| Permitir que o usuário do Spectro Azul se conecte ao Spectro Verde                       | ALTA  |
+|RF-013| Permitir que o usuário do Spectro Laranja se conecte ao Spectro Verde                    | ALTA  |
+|RF-014| Permitir que o usuário do Spectro Azul personalize funcionalidades do Spectro Verde      | MÉDIA |
+|RF-015| Permitir que o usuário do Spectro Laranja personalize funcionalidades do Spectro Verde   | MÉDIA |
+|RF-016| Permitir que o usuário do Spectro Verde cadastre crises                                  | MÉDIA |
+|RF-017| Permitir que o usuário do Spectro Verde visualize tarefas                                | MÉDIA |
+|RF-018| Permitir que o usuário do Spectro Verde realize exercícios de respiracao                 | BAIXA |
+|RF-019| Permitir que o usuário do Spectro Verde utilize linguagem não verbal                     | ALTA  |
+|RF-020| Permitir que o usuário do Spectro Roxo utlize linguagem não verbal                       | ALTA  |
+
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
+<!-- ......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ...... -->
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Os aplicativos para celulares devem ser compativeis coom Android e IOS            | ALTA     |
-|RNF-003| A conexão entre aplicativos deve ocorrer por no máximo  | BAIXA
-
+|ID     | Descrição do Requisito                                                          |Prioridade |
+|-------|---------------------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel               | MÉDIA     | 
+|RNF-002| Os aplicativos para celulares devem ser compativeis com Android e IOS           | ALTA      |
+|RNF-003| O Spectro Laranja deve se conectar com o Spectro Roxo através do banco de dados | ALTA      |
+|RNF-004| O Spectro Laranja deve se conectar com o Spectro Verde por bluetooth            | ALTA      |
+|RNF-005| O Spectro Azul deve se conectar com o Spectro Verde por bluetooth               | ALTA      |
+|RNF-006| O Spectro Azul deve enviar notificações                                         | ALTA      |
+|RNF-007| O Spectro Azul deve enviar alertas                                              | ALTA      |
+|RNF-008| O Spectro Roxo deve enviar notificações                                         | ALTA      |
+|RNF-009| O Spectro Roxo deve enviar alertas                                              | ALTA      |
 
 ### Restrições
 
