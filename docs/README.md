@@ -1,7 +1,6 @@
 # Documentação do Projeto
 
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
+O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, manifestações comportamentais, déficits na comunicação e na interação social, padrões de comportamentos repetitivos e estereotipados, podendo apresentar um repertório restrito de interesses e atividades. As pessoas com TEA são classificadas em 3 níveis de suporte, sendo o nível 1 o mais leve, o nível 2 moderado e o nível 3 grave. Tendo isso em vista o projeto SpectroBuddy foi criado com o objetivo ajudar pessoas TEA a serem mais independentes e autônomas.
 
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](/docs/01-iniciacao)
