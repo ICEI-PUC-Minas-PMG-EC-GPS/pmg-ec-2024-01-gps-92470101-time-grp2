@@ -47,7 +47,7 @@ O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento 
 
 Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e autônomas. 
 
-### Objetivo específico
+### Objetivo Específico
 
  1. Controlar os remédios e suas dosagens
  2. Acompanhar tarefas rotineiras por meio de agenda inteligente 
@@ -87,7 +87,7 @@ Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e a
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`           | QUERO/PRECISO ... `FUNCIONALIDADE`           |PARA ... `MOTIVO/VALOR`                               |
+|EU COMO...                     | QUERO/PRECISO ...                            |PARA ...                                              |
 |-------------------------------|----------------------------------------------|------------------------------------------------------|
 |Cuidador de uma pessoa com TEA | Registrar tarefas da pessoa com TEA          | A pessoa com TEA não esquecer de fazê-las            |
 |Cuidador de uma pessoa com TEA | Ter a opção de controle de remédios e crises | Ter noção do estado da pessoa com TEA                |
