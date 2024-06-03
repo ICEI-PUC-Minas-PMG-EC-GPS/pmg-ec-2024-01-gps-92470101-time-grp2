@@ -87,20 +87,20 @@ Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e a
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`       | QUERO/PRECISO ... `FUNCIONALIDADE`           |PARA ... `MOTIVO/VALOR`                               |
-|---------------------------|----------------------------------------------|------------------------------------------------------|
+|EU COMO... `PERSONA`           | QUERO/PRECISO ... `FUNCIONALIDADE`           |PARA ... `MOTIVO/VALOR`                               |
+|-------------------------------|----------------------------------------------|------------------------------------------------------|
 |Cuidador de uma pessoa com TEA | Registrar tarefas da pessoa com TEA          | A pessoa com TEA não esquecer de fazê-las            |
-|Pessoa com TEA   | Registrar minhas tarefas                    | Não esquecer de fazê-las                             |
-|Pessoa com TEA    | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
-|Pessoa com TEA    | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
-|Pessoa com TEA   | Ter a opção de controle de remédios e crises | Ter o suporte que preciso                            |
 |Cuidador de uma pessoa com TEA | Ter a opção de controle de remédios e crises | Ter noção do estado da pessoa com TEA                |
-|Pessoa com TEA    | O aplicativo conecte ao meu smartwatch       | Possa ter o suporte que preciso rapidamente          |
 |Cuidador de uma pessoa com TEA | O aplicativo conecte ao meu smartwatch       | A pessoa com TEA que cuido tenha suporte mais rápido |
-|Pessoa com TEA    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
-|Pessoas com TEA não verbal    | Pictogramas no aplicativo                    | Conseguir entende-lo                                 |
-|Pessoa com TEA   | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
-|Administrador              | Alterar permissões                           | Permitir que possam administrar contas               |
+|Pessoa com TEA                 | Registrar minhas tarefas                     | Não esquecer de fazê-las                             |
+|Pessoa com TEA                 | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
+|Pessoa com TEA                 | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
+|Pessoa com TEA                 | Ter a opção de controle de remédios e crises | Ter o suporte que preciso                            |
+|Pessoa com TEA                 | O aplicativo conecte ao meu smartwatch       | Possa ter o suporte que preciso rapidamente          |
+|Pessoa com TEA                 | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
+|Pessoa com TEA                 | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
+|Pessoa com TEA não verbal      | Pictogramas no aplicativo                    | Conseguir entende-lo                                 |
+|Administrador                  | Alterar permissões                           | Permitir que possam administrar contas               |
 
 <!-- > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
 > Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
