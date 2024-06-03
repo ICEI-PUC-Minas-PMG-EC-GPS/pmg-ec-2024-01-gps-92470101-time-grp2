@@ -148,9 +148,6 @@
 
 # Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
-
 ## Aquisição de Produtos
 
 - [Declaração de Escopo](artefatos/aquisicao_produtos.pdf)
