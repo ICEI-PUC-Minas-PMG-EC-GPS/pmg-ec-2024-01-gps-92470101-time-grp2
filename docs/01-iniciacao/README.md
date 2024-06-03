@@ -33,7 +33,7 @@
 
 ## Problema
 
-O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, manifestações comportamentais, déficits na comunicação e na interação social, padrões de comportamentos repetitivos e estereotipados, podendo apresentar um repertório restrito de interesses e atividades. Tendo isso em vista, o TEA compromete a independência e qualidade de vida dos indivíduo. 
+O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, manifestações comportamentais, déficits na comunicação e na interação social, padrões de comportamentos repetitivos e estereotipados, podendo apresentar um repertório restrito de interesses e atividades. Tendo isso em vista, o TEA compromete a independência e qualidade de vida dos indivíduos. 
 
 <!-- > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
@@ -71,11 +71,11 @@ relaxar e para monitorar o usuário em caso de crises.
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
 > Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto.
 
-- **Quantidade de donwload** - Se somados o número de donwload ser superior a 200
-- **Acessibilidade** - Se os aplicativos produzidos forem acessiveis a pessoas com TEA
+- **Quantidade de download** - Se somados o número de download ser superior a 200
+- **Acessibilidade** - Se os aplicativos produzidos forem acessíveis a pessoas com TEA
 - **Conectividade** - Caso não haver problemas com a conexão entre apps
 - **Avaliações de pessoas com TEA** - avaliação positiva de pessoas com TEA
-- **Aprovação de profissicionais** - aprovação de proficionais que atuam na area de saúde, como psicologos, psiquiatras e neurologista
+- **Aprovação Profissional** - avaliação e aprovação de profissionais que atuam na área de saúde, como psicólogos, psiquiatras e neurologista.
  
 ## Histórias de Usuários
 
@@ -98,9 +98,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do Spectro Laranja | Ter a opção de controle de remédios e crises | Ter noção do estado da pessoa com TEA                |
 |Usuário do Spectro Azul    | O aplicativo conecte ao meu smartwatch       | Possa ter o suporte que preciso rapidamente          |
 |Usuário do Spectro Laranja | O aplicativo conecte ao meu smartwatch       | A pessoa com TEA que cuido tenha suporte mais rápido |
-|Usuário do Spectro Azul    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crises                      |
-|Usuário do Spectro Roxo    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crises                      |
-|Usuário do Spectro Verde   | Funcionalidades para tranquilizar            | Me ajudar durante alguma crises                      |
+|Usuário do Spectro Azul    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
+|Usuário do Spectro Roxo    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
+|Usuário do Spectro Verde   | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
 |Usuário do Spectro Roxo    | Pictogramas no aplicativo                    | Conseguir entende-lo                                 |
 |Usuário do Spectro Roxo    | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
 |Usuário do Spectro Azul    | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
@@ -152,7 +152,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-002| Emitir um relatório de tarefas no mês                                                    | MÉDIA |
 |RF-003| Permitir que o usuário registre crises                                                   | ALTA  |
 |RF-004| Permitir que o usuário realize exercício de respiração                                   | MÉDIA |
-|RF-005| Permitir que o usuário visualize gráfico gerados com dados da crises                     | BAIXA |
+|RF-005| Permitir que o usuário visualize gráfico gerados com dados de crises                     | BAIXA |
 |RF-006| Permitir que o usuário edite crises registradas                                          | ALTA  |
 |RF-007| Permitir que o usuário delete crises                                                     | ALTA  |
 |RF-008| Permitir que o usuário edite tarefas                                                     | ALTA  |
@@ -165,9 +165,9 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-015| Permitir que o usuário do Spectro Laranja personalize funcionalidades do Spectro Verde   | MÉDIA |
 |RF-016| Permitir que o usuário do Spectro Verde cadastre crises                                  | MÉDIA |
 |RF-017| Permitir que o usuário do Spectro Verde visualize tarefas                                | MÉDIA |
-|RF-018| Permitir que o usuário do Spectro Verde realize exercícios de respiracao                 | BAIXA |
+|RF-018| Permitir que o usuário do Spectro Verde realize exercícios de respiração                 | BAIXA |
 |RF-019| Permitir que o usuário do Spectro Verde utilize linguagem não verbal                     | ALTA  |
-|RF-020| Permitir que o usuário do Spectro Roxo utlize linguagem não verbal                       | ALTA  |
+|RF-020| Permitir que o usuário do Spectro Roxo utilize linguagem não verbal                      | ALTA  |
 
 
 ### Requisitos Não Funcionais
@@ -178,8 +178,8 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                                          |Prioridade |
 |-------|---------------------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel               | MÉDIA     | 
-|RNF-002| Os aplicativos para celulares devem ser compativeis com Android e IOS           | ALTA      |
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móveis              | MÉDIA     | 
+|RNF-002| Os aplicativos para celulares devem ser compatíveis com Android e IOS           | ALTA      |
 |RNF-003| O Spectro Laranja deve se conectar com o Spectro Roxo através do banco de dados | ALTA      |
 |RNF-004| O Spectro Laranja deve se conectar com o Spectro Verde por bluetooth            | ALTA      |
 |RNF-005| O Spectro Azul deve se conectar com o Spectro Verde por bluetooth               | ALTA      |
@@ -212,7 +212,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Paula Talim	                          | Gerenciar projeto                    | Média      | Média               | Apoiador |
 | Rafael Vicente                        |	Gerenciar banco de dados	           | Baixa      | Baixa               | Apoiador |
 | Profissionais da área de saúde mental |	Promover o projeto	                 | Alta	      | Média               | Apoiador |
-| Usuários com TEA e seus cuidadores    |	Opnião pública                       | Alta	      | Alta	              | Neutro   |
+| Usuários com TEA e seus cuidadores    |	Oponião pública                      | Alta	      | Alta	              | Neutro   |
 | Lojas de aplicativo	                  | Acessibilidade do público ao projeto | Alta	      | Alta                | Apoiador |
 
 
@@ -229,10 +229,10 @@ A tabela a seguir apresenta as restrições do projeto.
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
 | Recursos Humanos        | Funcionário do setor financeiro | 800 | R$ 28,00 |   22400,00 |
-| Hardware                | SmartWacth | 0          | R$ 0,00      | R$ 0,00     |
+| Hardware                | Smartwacth | 0          | R$ 0,00      | R$ 0,00     |
 | Serviços de Rede        |      -     | 0          | R$ 0,00      | R$ 0,00     |
 | Hospedagem e Nuvem      | Github     | 2000       | R$ 0,00      | R$ 0,00     |
-| Software de terceiros   | Banco de dados, icones e pictogramas | 2000          | R$ 0,00      | R$ 0,00     |
+| Software de terceiros   | Banco de dados, ícones e pictogramas | 2000          | R$ 0,00      | R$ 0,00     |
 | Serviços e treinamento  |            | 2000       | R$ 100,00    | R$ 200000,00|
 | **Total Geral**         |            | 6880       | R$ 128,21    | R$ 223000,00|
 
