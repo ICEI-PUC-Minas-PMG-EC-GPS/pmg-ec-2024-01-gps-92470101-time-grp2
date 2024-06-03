@@ -65,17 +65,16 @@ relaxar e para monitorar o usuário em caso de crises.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
+<!-- > Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto.
+> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. -->
 
-- **Quantidade de download** - Se somados o número de download ser superior a 200
-- **Acessibilidade** - Se os aplicativos produzidos forem acessíveis a pessoas com TEA
-- **Conectividade** - Caso não haver problemas com a conexão entre apps
-- **Avaliações de pessoas com TEA** - avaliação positiva de pessoas com TEA
-- **Aprovação Profissional** - avaliação e aprovação de profissionais que atuam na área de saúde, como psicólogos, psiquiatras e neurologista.
+1. **Quantidade de download** - Após um tempo do lançamento dos apps nas lojas de aplicativos, o número de download de todos os aplicativos somados deve ser superior a 200;
+2. **Acessibilidade** - Os aplicativos produzidos devem ser acessíveis a pessoas com TEA;
+3. **Conectividade** - Não haver problemas com a conexão entre apps;
+4. **Avaliações de pessoas com TEA** - avaliação positiva de pessoas com TEA;
+5. **Aprovação Profissional** - avaliação e aprovação de profissionais que atuam na área de saúde, como psicólogos, psiquiatras e neurologista;
+6. **Entrega dentro do orçamento e prazo** - o projeto deve obedecer a prazos e a orçamentos estipulados.
  
 ## Histórias de Usuários
 
