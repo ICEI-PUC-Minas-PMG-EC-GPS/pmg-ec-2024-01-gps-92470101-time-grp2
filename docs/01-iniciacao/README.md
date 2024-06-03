@@ -43,11 +43,16 @@ O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento 
 
 ## Objetivos
 
-O objetivo do projeto é ajudar pessoas com Transtorno do Espectro Autista 
-a serem mais independentes e autônomas. Sendo assim, o projeto visa ter um 
-controle de remédios e de dosagens e do usuário, acompanhar suas tarefas 
-rotineiras por meio de agenda inteligente e possuir funcionalidades para 
-relaxar e para monitorar o usuário em caso de crises.
+### Objetivo Geral
+
+Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e autônomas. 
+
+### Objetivo específico
+
+ 1. Controlar os remédios e suas dosagens
+ 2. Acompanhar tarefas rotineiras por meio de agenda inteligente 
+ 3. Disponibilizar opções para relaxamento
+ 4. Monitorar crises
 
 <!-- > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
