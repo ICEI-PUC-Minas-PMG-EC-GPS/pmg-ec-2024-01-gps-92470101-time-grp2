@@ -89,26 +89,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`       | QUERO/PRECISO ... `FUNCIONALIDADE`           |PARA ... `MOTIVO/VALOR`                               |
 |---------------------------|----------------------------------------------|------------------------------------------------------|
-|Usuário do Spectro Azul    | Registrar minhas tarefas                     | Não esquecer de fazê-las                             |
-|Usuário do Spectro Laranja | Registrar tarefas da pessoa com TEA          | A pessoa com TEA não esquecer de fazê-las            |
-|Usuário do Spectro Verde   | Visualizar minhas tarefas                    | Não esquecer de fazê-las                             |
-|Usuário do Spectro Azul    | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
-|Usuário do Spectro Roxo    | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
-|Usuário do Spectro Verde   | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
-|Usuário do Spectro Azul    | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
-|Usuário do Spectro Roxo    | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
-|Usuário do Spectro Verde   | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
-|Usuário do Spectro Azul    | Ter a opção de controle de remédios e crises | Ter o suporte que preciso                            |
-|Usuário do Spectro Laranja | Ter a opção de controle de remédios e crises | Ter noção do estado da pessoa com TEA                |
-|Usuário do Spectro Azul    | O aplicativo conecte ao meu smartwatch       | Possa ter o suporte que preciso rapidamente          |
-|Usuário do Spectro Laranja | O aplicativo conecte ao meu smartwatch       | A pessoa com TEA que cuido tenha suporte mais rápido |
-|Usuário do Spectro Azul    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
-|Usuário do Spectro Roxo    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
-|Usuário do Spectro Verde   | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
-|Usuário do Spectro Roxo    | Pictogramas no aplicativo                    | Conseguir entende-lo                                 |
-|Usuário do Spectro Roxo    | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
-|Usuário do Spectro Azul    | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
-|Usuário do Spectro Verde   | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
+|Cuidador de uma pessoa com TEA | Registrar tarefas da pessoa com TEA          | A pessoa com TEA não esquecer de fazê-las            |
+|Pessoa com TEA   | Registrar minhas tarefas                    | Não esquecer de fazê-las                             |
+|Pessoa com TEA    | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
+|Pessoa com TEA    | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
+|Pessoa com TEA   | Ter a opção de controle de remédios e crises | Ter o suporte que preciso                            |
+|Cuidador de uma pessoa com TEA | Ter a opção de controle de remédios e crises | Ter noção do estado da pessoa com TEA                |
+|Pessoa com TEA    | O aplicativo conecte ao meu smartwatch       | Possa ter o suporte que preciso rapidamente          |
+|Cuidador de uma pessoa com TEA | O aplicativo conecte ao meu smartwatch       | A pessoa com TEA que cuido tenha suporte mais rápido |
+|Pessoa com TEA    | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
+|Pessoas com TEA não verbal    | Pictogramas no aplicativo                    | Conseguir entende-lo                                 |
+|Pessoa com TEA   | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
 |Administrador              | Alterar permissões                           | Permitir que possam administrar contas               |
 
 <!-- > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
