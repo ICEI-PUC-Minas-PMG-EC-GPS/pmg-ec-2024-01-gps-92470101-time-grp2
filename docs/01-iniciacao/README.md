@@ -33,8 +33,7 @@
 
 ## Problema
 
-A falta de independência de pessoas com Transtorno do Espectro Autista possuem no 
-dia a dia é uma questãoo que afeta consideravelmente a qualidade de vida desses indivíduos.
+O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, manifestações comportamentais, déficits na comunicação e na interação social, padrões de comportamentos repetitivos e estereotipados, podendo apresentar um repertório restrito de interesses e atividades. Tendo isso em vista, o TEA compromete a independência e qualidade de vida dos indivíduo. 
 
 <!-- > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
