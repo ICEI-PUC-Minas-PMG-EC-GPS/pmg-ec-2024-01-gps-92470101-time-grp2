@@ -61,14 +61,9 @@
 > A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
 > Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
 
-> Inclua um diagrama da arquitetura do sistema. 
-> Explique e justifique a arquitetura escolhida, com base nos objetivos do sistema, número de usuários esperados, tamanho da aplicação, previsão de expansão do sistema e orçamento do projeto.
-> 
-> **Exemplo do diagrama de Arquitetura (Microserviços x Monolítica)**:
-> ![Exemplo Genérico de Arquitetura](images/arquitetura-sistema.png)
->
-> **[Exemplo Arquitetura eShopOnContainers](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)**
-> ![Arquitetura eShopOnContainers](images/eshoponcontainers-architecture.png)
+**Arquitetura do Sistema**:
+![Arquitetura SpectroBuddy](images/arquitetura-sistema.png)
+Optamos por uma abordagem monolítica, pois, apesar das diferenças entre aplicativos, os dados persistentes não serão tão diferentes ao ponto de ser necessário uma divisão do banco de dados.
 
 
 ## Diagrama de Classes
