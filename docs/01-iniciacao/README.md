@@ -87,20 +87,31 @@ Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e a
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO...                     | QUERO/PRECISO ...                            |PARA ...                                              |
-|-------------------------------|----------------------------------------------|------------------------------------------------------|
-|Cuidador de uma pessoa com TEA | Registrar tarefas da pessoa com TEA          | A pessoa com TEA não esquecer de fazê-las            |
-|Cuidador de uma pessoa com TEA | Ter a opção de controle de remédios e crises | Ter noção do estado da pessoa com TEA                |
-|Cuidador de uma pessoa com TEA | O aplicativo conecte ao meu smartwatch       | A pessoa com TEA que cuido tenha suporte mais rápido |
-|Pessoa com TEA                 | Registrar minhas tarefas                     | Não esquecer de fazê-las                             |
-|Pessoa com TEA                 | Notificações das minhas tarefas              | Ter o suporte que preciso                            |
-|Pessoa com TEA                 | Alertas das minhas tarefas                   | Ter o suporte que preciso                            |
-|Pessoa com TEA                 | Ter a opção de controle de remédios e crises | Ter o suporte que preciso                            |
-|Pessoa com TEA                 | O aplicativo conecte ao meu smartwatch       | Possa ter o suporte que preciso rapidamente          |
-|Pessoa com TEA                 | Funcionalidades para tranquilizar            | Me ajudar durante alguma crise                       |
-|Pessoa com TEA                 | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
-|Pessoa com TEA não verbal      | Pictogramas no aplicativo                    | Conseguir entende-lo                                 |
-|Administrador                  | Alterar permissões                           | Permitir que possam administrar contas               |
+|EU COMO...                     | QUERO/PRECISO ...                               |PARA ...                                                          |
+|-------------------------------|-------------------------------------------------|------------------------------------------------------------------|
+|Cuidador de uma pessoa com TEA | Registrar tarefas da pessoa com TEA             | A pessoa com TEA não esquecer de fazê-las                        |
+|Cuidador de uma pessoa com TEA | Controlar remédios e crises                     | Ter noção do estado da pessoa com TEA                            |
+|Cuidador de uma pessoa com TEA | Acessar informações importantes no smartwatch   | A pessoa com TEA tenha suporte mais rápido                       |
+|Pessoa com TEA                 | Registrar minhas tarefas                        | Não esquecer de fazê-las                                         |
+|Pessoa com TEA                 | Notificar tarefas                               | Ter o suporte que precisa                                        |
+|Pessoa com TEA                 | Ter alertas de tarefas                          | Ter o suporte que precisa                                        |
+|Pessoa com TEA                 | Controlar remédios e crises                     | Ter o suporte que precisa                                        |
+|Pessoa com TEA                 | Acessar informações importantes no smartwatch   | Possa ter o suporte que precisa rapidamente                      |
+|Pessoa com TEA                 | Acessar funcionalidades para tranquilizar       | Ajudar durante alguma crise                                      |
+|Pessoa com TEA                 | Possua emoji no aplicativo                      | Realizar linguagem não verbal                                    |
+|Pessoa com TEA não verbal      | Possua pictogramas no aplicativo                | Conseguir entender o aplicativo                                  |
+|Administrador                  | Alterar permissões                              | Permitir que possam administrar contas                           |
+|Administrador de Redes         | Acessar banco de dados e back-end               | Permitir a  conexão de aplicativos entre si e com banco de dados |
+|DBA                            | Acessar ao banco de dados                       | Desenvolver banco de dados                                       |
+|Desing de interfaces           | Acessar a ferramentas de desing                 | Deselvover projetos de interfaces acessíveis                     |
+|Desenvolvedor                  | Acessar a ferramentas de desenvolvimento mobile | Desenvolver aplicativos                                          |
+|Desenvolvedor                  | Acessar a documentações de código               | Auxiliar no desenvolvimento do código                            |
+|Desenvolvedor                  | Acessar projeto de interfaces                   | Desenvolver aplicativos                                          |
+|Médico                         | Visualizar dados e estatísticas sobre crises    | Saber como se deve prosseguir no tratamento da pessoa com TEA    |
+|Gerente de projeto             | Acessar códigos produzidos                      | Acompanhar e orientar as tarefas do projeto                      |
+|Analista de Sistemas           | Acessar dados gerados no sistema                | Produzir relatórios                                              |
+
+
 
 <!-- > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
 > Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
@@ -112,7 +123,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos Preliminares
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
+<!-- > Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas.  -->
 
 <!-- > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
