@@ -54,16 +54,14 @@
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
 > A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
 > Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
 > A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
 > Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
 
-**Arquitetura do Sistema**:
+Para a arquitetura do sistema foi optado pela abordagem monolítica, pois, apesar das diferenças entre aplicativos, os dados persistentes não serão tão diferentes ao ponto de ser necessário uma divisão do banco de dados.
+
 ![Arquitetura SpectroBuddy](images/arquitetura-sistema.png)
-Optamos por uma abordagem monolítica, pois, apesar das diferenças entre aplicativos, os dados persistentes não serão tão diferentes ao ponto de ser necessário uma divisão do banco de dados.
 
 
 ## Diagrama de Classes
