@@ -69,7 +69,13 @@ relaxar e para monitorar o usuário em caso de crises.
 
 > Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto.
+
+- **Quantidade de donwload** - Se somados o número de donwload ser superior a 200
+- **Acessibilidade** - Se os aplicativos produzidos forem acessiveis a pessoas com TEA
+- **Conectividade** - Caso não haver problemas com a conexão entre apps
+- **Avaliações de pessoas com TEA** - avaliação positiva de pessoas com TEA
+- **Aprovação de profissicionais** - aprovação de proficionais que atuam na area de saúde, como psicologos, psiquiatras e neurologista
  
 ## Histórias de Usuários
 
