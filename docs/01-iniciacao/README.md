@@ -46,7 +46,7 @@ dia a dia é uma questãoo que afeta consideravelmente a qualidade de vida desse
 
 O objetivo do projeto é ajudar pessoas com Transtorno do Espectro Autista 
 a serem mais independentes e autônomas. Sendo assim, o projeto visa ter um 
-controle de remédios e de dosagens e do usuario, acompanhar suas tarefas 
+controle de remédios e de dosagens e do usuário, acompanhar suas tarefas 
 rotineiras por meio de agenda inteligente e possuir funcionalidades para 
 relaxar e para monitorar o usuário em caso de crises.
 
@@ -102,22 +102,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do Spectro Verde   | Emoji no aplicativo                          | Realizar linguagem não verbal                        |
 |Administrador              | Alterar permissões                           | Permitir que possam administrar contas               |
 
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-> As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
+<!-- > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
 > Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
 > As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac) -->
 
 ## Requisitos Preliminares
 
 > Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
+<!-- > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
 >
 > - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -136,8 +133,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > **Links Úteis**:
 > 
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/) -->
 
 ### Requisitos Funcionais
 
@@ -261,9 +257,6 @@ A tabela a seguir apresenta as restrições do projeto.
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ## Divisão de Papéis
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
 
 | Membro         | Papel                       |
 |----------------|-----------------------------|
