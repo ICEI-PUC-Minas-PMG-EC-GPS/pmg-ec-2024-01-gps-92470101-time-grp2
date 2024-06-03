@@ -29,15 +29,15 @@
 
 [![fluxograma app smartwatch](./images/interfaces_spectroVerde.png)](https://www.figma.com/proto/NRsvA6N286mr4Tv7cBRT9A/SpectroBuddy?node-id=211-173&t=P0AIL9t6NrjiREgO-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=211%3A173&show-proto-sidebar=1)
 
-## Spectro Azul - *Aplicativo para pessoas com Transtono do Espectro Autista de nível 1*
+## Spectro Azul - *Aplicativo para pessoas com TEA nível 1*
 
 [![fluxograma app SpectroAzul](./images/interfaces_spectroAzul.png)](https://www.figma.com/proto/NRsvA6N286mr4Tv7cBRT9A/SpectroBuddy?node-id=204-69&t=P0AIL9t6NrjiREgO-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=204%3A69&show-proto-sidebar=1)
 
-## Spectro Laranja - *Aplicativo para cuidadores de pessoas com Transtono do Espectro Autista de nível 2 e 3*
+## Spectro Laranja - *Aplicativo para cuidadores de pessoas com TEA nível 2 ou 3*
 
 [![fluxograma app SpectroLaranja](./images/interfaces_spectroLaranja.png)](https://www.figma.com/proto/NRsvA6N286mr4Tv7cBRT9A/SpectroBuddy?node-id=356-15&t=iikM5kugf4JOiFR2-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=356%3A15&show-proto-sidebar=1)
 
-## Spectro Roxo - *Aplicativo para pessoas com Transtono do Espectro Autista de nível 2 e 3*
+## Spectro Roxo - *Aplicativo para pessoas com TEA nível 2 ou 3*
 
 [![fluxograma app SpectroRoxo](./images/interfaces_spectroRoxo.png)](https://www.figma.com/proto/NRsvA6N286mr4Tv7cBRT9A/SpectroBuddy?node-id=362-2&t=iikM5kugf4JOiFR2-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=362%3A2&show-proto-sidebar=1)
 
@@ -64,7 +64,7 @@ Para a arquitetura do sistema foi optado pela abordagem monolítica, pois, apesa
 ![Arquitetura SpectroBuddy](images/arquitetura-sistema.png)
 
 
-## Diagrama de Classes
+<!-- ## Diagrama de Classes
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE CLASSES .......
 
@@ -77,7 +77,7 @@ Para a arquitetura do sistema foi optado pela abordagem monolítica, pois, apesa
 > Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
 >
 > **Exemplo de diagrama de Classes**:
-> ![Exemplo de diagrama de Classes](images/class-diagram.png)
+> ![Exemplo de diagrama de Classes](images/class-diagram.png) -->
 
 
 ## Persistência dos Dados
