@@ -290,11 +290,11 @@ A tabela a seguir apresenta as restrições do projeto.
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/7/views/1 | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-grp2 | Hospedagem |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | Miro               | https://miro.com/app/board/uXjVNgV2U68=/?share_link_id=486322437169| |
-| Cronograma do Projeto | ProjectLibre       | https://www.projectlibre.com | |
+| Protótipo Interativo  | Figma              | https://www.figma.com/design/NRsvA6N286mr4Tv7cBRT9A/SpectroBuddy?node-id=0-1&t=tJBuoRsJfIWzUv5e-1  | |
+| Documentos Textuais   | LibreOffice Writer | N/A                        |              |
+| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |              |
+| EAP / WBS             | Miro               | https://miro.com/app/board/uXjVNgV2U68=/?share_link_id=486322437169 | |
+| Cronograma do Projeto | ProjectLibre       | https://www.projectlibre.com |            |
 | Matriz RACI           | Microsoft Word     | https://www.microsoft.com/pt-br/microsoft-365/word | |
 
 # Documentos
