@@ -64,15 +64,16 @@ Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e a
  
 # Especificações do Projeto
 
-1. **Agenda Inteligente**
-2. **Comunição não verbal**
-3. **Análise de crises**
-4. **Relaxamento**
-5. **Ciclo social**
+Para que o Spectro Buddy seja possível será necessário utilizar as seguintes técnicas e ferramentas:
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. **Agenda Inteligente**: Implementação de uma agenda para monitorar as tarefas rotineiras.
+2. **Pictograma**: Utilização de emoji e pictogramas para possibilitar a comunicação não verbal do indivíduo.
+3. **Gráficos**: Utilização de gráficos para um melhor monitoramento e analise de crises de uma pessoa com TEA.
+4. **Alertas e Notificações**: Implementação de alertas e notificações de tarefas rotineiras, evitando que a pessoa com TEA as esqueça.
+5. **Lista de contatos**: Implementação de uma lista de contatos para monitoramento do ciclo social da pessoa com TEA, auxiliando no seu filtro social.
+6. **Plataforma de Aplicativos**: Desenvivolmento de aplicativos que conectam e comunicam entre si, utilizando o conceito de IOT, para fornecer o suporte que a pessoa com TEA precisa.
 
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar as especificações do projeto.
+<!-- > Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar as especificações do projeto. -->
 
 ## Critérios de Sucesso
 
