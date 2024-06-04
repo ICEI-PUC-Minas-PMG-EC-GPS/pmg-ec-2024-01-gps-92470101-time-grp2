@@ -64,6 +64,12 @@ Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e a
  
 # Especificações do Projeto
 
+1. **Agenda Inteligente**
+2. **Comunição não verbal**
+3. **Análise de crises**
+4. **Relaxamento**
+5. **Ciclo social**
+
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar as especificações do projeto.
