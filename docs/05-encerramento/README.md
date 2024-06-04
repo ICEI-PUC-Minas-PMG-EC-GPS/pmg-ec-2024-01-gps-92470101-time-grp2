@@ -33,10 +33,10 @@ A jornada para o desenvolvimento nos gerou vários aprendizados, tal como a util
 
 # Auto-avaliação
 
-- **Paula Talim**:
 - **Gabriel Luís**:
-- **Rafael Vicente**:
 - **Leonardo Pizani**:
+- **Paula Talim**:
+- **Rafael Vicente**:
 
 
 <!-- > **Esta seção normalmente não existe em projetos. Foi adicionada neste documento apenas no contexto da disciplina.**
