@@ -111,8 +111,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Gerente de projeto             | Acessar códigos produzidos                      | Acompanhar e orientar as tarefas do projeto                      |
 |Analista de Sistemas           | Acessar dados gerados no sistema                | Produzir relatórios                                              |
 
-
-
 <!-- > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
 > Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
 > As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
@@ -196,14 +194,17 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
+<!-- ......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ...... -->
 
 A tabela a seguir apresenta as restrições do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição da Restrição                                                         | Prioridade |
+|------|--------------------------------------------------------------------------------|------------|
+|RE-001| Compatibilidade do aplicativo com diversos dispositivos disponíveis no mercado | ALTA       | 
+|RE-002| Desing das interfaces deve ser acessível a pessoas com TEA                     | MÉDIA      |
+|RE-003| Recursos disponibilizados em frameworks e linguagens de programacao            | BAIXA      |
+|RE-004| Recursos Financeiros Limitados                                                 | MÉDIA      |
+|RE-005| Limitações na utilização ou conexão com API ou software de terceiros           | ALTA       |
 
 # Partes Interessadas
 
