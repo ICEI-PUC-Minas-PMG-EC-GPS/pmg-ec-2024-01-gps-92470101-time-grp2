@@ -68,10 +68,10 @@ Para que o Spectro Buddy seja possível será necessário utilizar as seguintes 
 
 1. **Agenda Inteligente**: Implementação de uma agenda para monitorar as tarefas rotineiras.
 2. **Pictograma**: Utilização de emoji e pictogramas para possibilitar a comunicação não verbal do indivíduo.
-3. **Gráficos**: Utilização de gráficos para um melhor monitoramento e analise de crises de uma pessoa com TEA.
+3. **Gráficos**: Utilização de gráficos para um melhor monitoramento e análise de crises de uma pessoa com TEA.
 4. **Alertas e Notificações**: Implementação de alertas e notificações de tarefas rotineiras, evitando que a pessoa com TEA as esqueça.
 5. **Lista de contatos**: Implementação de uma lista de contatos para monitoramento do ciclo social da pessoa com TEA, auxiliando no seu filtro social.
-6. **Plataforma de Aplicativos**: Desenvivolmento de aplicativos que conectam e comunicam entre si, utilizando o conceito de IOT, para fornecer o suporte que a pessoa com TEA precisa.
+6. **Plataforma de Aplicativos**: Desenvolvimento de aplicativos que conectam e comunicam entre si, utilizando o conceito de IOT, para fornecer o suporte que a pessoa com TEA precisa.
 
 <!-- > Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar as especificações do projeto. -->
 
@@ -108,9 +108,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Pessoa com TEA                 | Possua emoji no aplicativo                      | Realizar linguagem não verbal                                    |
 |Pessoa com TEA não verbal      | Possua pictogramas no aplicativo                | Conseguir entender o aplicativo                                  |
 |Administrador                  | Alterar permissões                              | Permitir que possam administrar contas                           |
-|Administrador de Redes         | Acessar banco de dados e back-end               | Permitir a  conexão de aplicativos entre si e com banco de dados |
+|Administrador de Redes         | Acessar banco de dados e back-end               | Permitir a conexão de aplicativos entre si e com banco de dados  |
 |DBA                            | Acessar ao banco de dados                       | Desenvolver banco de dados                                       |
-|Desing de interfaces           | Acessar a ferramentas de desing                 | Deselvover projetos de interfaces acessíveis                     |
+|Design de interfaces           | Acessar a ferramentas de design                 | Desenlvover projetos de interfaces acessíveis                    |
 |Desenvolvedor                  | Acessar a ferramentas de desenvolvimento mobile | Desenvolver aplicativos                                          |
 |Desenvolvedor                  | Acessar a documentações de código               | Auxiliar no desenvolvimento do código                            |
 |Desenvolvedor                  | Acessar projeto de interfaces                   | Desenvolver aplicativos                                          |
@@ -189,7 +189,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                                          |Prioridade |
 |-------|---------------------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móveis              | MÉDIA     | 
+|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis                 | MÉDIA     | 
 |RNF-002| Os aplicativos para celulares devem ser compatíveis com Android e IOS           | ALTA      |
 |RNF-003| O Spectro Laranja deve se conectar com o Spectro Roxo através do banco de dados | ALTA      |
 |RNF-004| O Spectro Laranja deve se conectar com o Spectro Verde por bluetooth            | ALTA      |
@@ -209,7 +209,7 @@ A tabela a seguir apresenta as restrições do projeto.
 |------|--------------------------------------------------------------------------------|------------|
 |RE-001| Compatibilidade do aplicativo com diversos dispositivos disponíveis no mercado | ALTA       | 
 |RE-002| Desing das interfaces deve ser acessível a pessoas com TEA                     | MÉDIA      |
-|RE-003| Recursos disponibilizados em frameworks e linguagens de programacao            | BAIXA      |
+|RE-003| Recursos disponibilizados em frameworks e linguagens de programação            | BAIXA      |
 |RE-004| Recursos Financeiros Limitados                                                 | MÉDIA      |
 |RE-005| Limitações na utilização ou conexão com API ou software de terceiros           | ALTA       |
 
@@ -226,7 +226,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Paula Talim	                          | Gerenciar projeto                    | Média      | Média               | Apoiador |
 | Rafael Vicente                        |	Gerenciar banco de dados	           | Baixa      | Baixa               | Apoiador |
 | Profissionais da área de saúde mental |	Promover o projeto	                 | Alta	      | Média               | Apoiador |
-| Usuários com TEA e seus cuidadores    |	Oponião pública                      | Alta	      | Alta	              | Neutro   |
+| Usuários com TEA e seus cuidadores    |	Opinião pública                      | Alta	      | Alta	              | Neutro   |
 | Lojas de aplicativo	                  | Acessibilidade do público ao projeto | Alta	      | Alta                | Apoiador |
 
 
@@ -243,7 +243,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
 | Recursos Humanos        | Funcionário do setor financeiro | 800 | R$ 28,00 |   22400,00 |
-| Hardware                | Smartwacth | 0          | R$ 0,00      | R$ 0,00     |
+| Hardware                | Smartwatch | 0          | R$ 0,00      | R$ 0,00     |
 | Serviços de Rede        |      -     | 0          | R$ 0,00      | R$ 0,00     |
 | Hospedagem e Nuvem      | Github     | 2000       | R$ 0,00      | R$ 0,00     |
 | Software de terceiros   | Banco de dados, ícones e pictogramas | 2000          | R$ 0,00      | R$ 0,00     |
