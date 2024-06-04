@@ -1,11 +1,11 @@
 # Iniciação
 
-> A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
-> Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
-> É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
-> Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
-> Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que orientarão as etapas subsequentes. 
-> O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
+A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
+ Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
+ É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
+ Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
+ Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que orientarão as etapas subsequentes. 
+ O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
 
 # Estrutura do Documento
 
@@ -49,8 +49,8 @@ Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e a
 
 ### Objetivo Específico
 
- 1. Controlar os remédios e suas dosagens
- 2. Acompanhar tarefas rotineiras por meio de agenda inteligente 
+ 1. Computar e analisar crises
+ 2. Acompanhar tarefas rotineiras
  3. Disponibilizar opções para relaxamento
  4. Monitorar crises
 
@@ -74,7 +74,7 @@ Ajudar pessoas com Transtorno do Espectro Autista a serem mais independentes e a
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
 > Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. -->
 
-1. **Quantidade de download** - Após um tempo do lançamento dos apps nas lojas de aplicativos, o número de download de todos os aplicativos somados deve ser superior a 200;
+1. **Número de download** - Após um tempo do lançamento dos apps nas lojas de aplicativos, o número de download de todos os aplicativos somados deve ser superior a 200;
 2. **Acessibilidade** - Os aplicativos produzidos devem ser acessíveis a pessoas com TEA;
 3. **Conectividade** - Não haver problemas com a conexão entre apps;
 4. **Avaliações de pessoas com TEA** - avaliação positiva de pessoas com TEA;
