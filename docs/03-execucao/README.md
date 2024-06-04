@@ -23,7 +23,7 @@
  Ao criar protótipos navegáveis, os desenvolvedores podem validar conceitos, testar a usabilidade e obter feedback de stakeholders e usuários finais. 
  Essa abordagem contribui para a detecção precoce de possíveis problemas de usabilidade, refinando o design e economizando tempo e recursos durante o ciclo de desenvolvimento. Sendo assim, a seguir está os Diagramas de Fluxo do Usuário desenvolvidos para cada aplicativo do projeto.
 
-> Observação: Clique nos *Diagramas de Fluxo do Usuário* a seguir para acessar seu protótipo navegável.
+> **Observação**: Clique nos *Diagramas de Fluxo do Usuário* a seguir para acessar seu protótipo navegável.
 
 ## Spectro Verde - *Aplicativo para Smartwatch*
 
@@ -43,9 +43,6 @@
 
 # Modelagem da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
 > A modelagem de software envolve a criação de representações abstratas que capturam a estrutura, comportamento e interações do software a ser desenvolvido. 
 > Esses modelos servem como guias visuais que auxiliam na compreensão e comunicação entre os membros da equipe de desenvolvimento. 
 > A modelagem de software abrange diversas técnicas, como diagramas de classes, diagramas de sequência e diagramas de caso de uso, proporcionando uma representação visual clara das relações e funcionalidades do sistema. 
@@ -54,10 +51,10 @@
 
 ## Arquitetura da solução
 
-> A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
-> Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
-> A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
-> Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
+ A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
+ Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
+ A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
+ Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
 
 Para a arquitetura do sistema foi optado pela abordagem monolítica, pois, apesar das diferenças entre aplicativos, os dados persistentes não serão tão diferentes ao ponto de ser necessário uma divisão do banco de dados.
 
