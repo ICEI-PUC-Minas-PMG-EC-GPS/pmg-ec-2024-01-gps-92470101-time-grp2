@@ -263,7 +263,7 @@ A tabela a seguir apresenta as restrições do projeto.
 
 # Metodologia
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
+<!-- > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
 >
 > Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
 > O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
@@ -273,7 +273,47 @@ A tabela a seguir apresenta as restrições do projeto.
 > - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
 > - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0) -->
+
+Para que o Spectro Buddy seja possível de se desenvolver foi adotada um framework Scrum, como uma metologia ágil para organizar as demandas e executar as tarefas, permitindo uma entrega rápida e de alta qualidade do produto. A seguir está alguns detalhes desse processo.
+
+## Ciclo de Trabalho
+
+**1. Planejamento**
+
+Estabelecer as bases  do projeto, identificando os objetivos, requisitos e restrições, além de planejar as atividades necessárias para a sua execução.
+
+**2. Análise de Requisitos**
+
+Coletar e analisar os requisitos funcionais e não funcionais do aplicativo,  incluindo  as  necessidades  específicas  dos  usuários  autistas  e  as  funcionalidades necessárias para atendê-las. 
+
+**3. Design**
+
+Criar o design detalhado do aplicativo, incluindo a interface do usuário, arquitetura de software, fluxo de navegação e experiência  do usuário,  garantindo que atenda  aos  requisitos identificados na fase anterior. 
+
+**4. Desenvolvimento**
+
+Desenvolvimento de 4 aplicativos, sendo eles:
+
+- **Spectro Roxo**: Aplicativo voltado para autistas níveis 2 ou 3, nesse app terá pictogramas, notificações sobre as tarefas que o usuário precisa fazer e funcionalidades para relaxar, como a opção de colocar música. 
+
+- **Spectro Laranja**: Aplicativo voltado aos cuidadores de autista nível 2 ou 3, nele é possível controlar remédios, crises e rotina da pessoa com o transtorno, assim, será possível configurar notificações que aparecerá app para autista nível 2 e 3. Além de conseguir controlar os sinais vitais do autista, através do app para smartwatch. 
+
+- **Spectro Azul**: Aplicativo voltado para autista nível 1, nele haverá a possibilidade de controle de remédios, sinais vitais, crises e rotina, além de funcionalidades para relaxar, como a opção de colocar músicas. Assim, o app terá alertas configurados pelo próprio usuário e terá a possibilidade de se conectar com o app para smartwatch. 
+
+- **Spectro Verde**: Aplicativo voltado para smartwatch para pessoas autistas, esse app irá ler os dados dos sinais vitais do usuário, podendo enviá-los para os aplicativos para cuidadores ou para autistas de nível 1. Além disso, o aplicativo irá mostrar as notificações configurações nos app conectados.
+
+**5. Testes**
+
+Realizar  testes  rigorosos  para  garantir  a  qualidade  e  a  usabilidade  do  aplicativo, incluindo  testes  funcionais,  de  usabilidade  e  de  acessibilidade,  identificando  e  corrigindo quaisquer defeitos ou problemas encontrados. 
+
+**6. Implantação**
+ 
+Preparar  o  aplicativo  para  o  lançamento  público,  incluindo  a  configuração  de ambientes  de  produção,  migração  de  dados,  treinamento  de  usuários  e  implementação  de estratégias de lançamento e marketing. 
+
+**7. Manutenção e Suporte**
+
+Fornecer suporte contínuo ao aplicativo após o lançamento, incluindo a correção de bugs, atualizações de segurança, melhorias de desempenho e lançamento de novas versões com base no feedback dos usuários.
 
 ## Divisão de Papéis
 
