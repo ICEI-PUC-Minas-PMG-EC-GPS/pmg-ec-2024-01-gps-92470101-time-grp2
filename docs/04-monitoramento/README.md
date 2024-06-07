@@ -66,7 +66,7 @@
 ![Insight - Mês Abril](images/insight-abril.png)
 
 **Insight - Mês Junho**
-> Adicione aqui insights do mês de Junho.
+![Insight - Mês Abril](images/insight-maio.png)
 
 ## Burn-up do projeto
 
