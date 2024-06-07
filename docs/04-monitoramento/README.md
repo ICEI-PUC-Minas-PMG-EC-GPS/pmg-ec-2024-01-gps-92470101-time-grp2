@@ -81,6 +81,7 @@
 > Por outro lado, se a linha de trabalho concluído se mantém acima da linha de escopo total, isto pode indicar que o projeto está adiantado em relação ao planejado.
 
 ![Burn-up](images/burn-up.png)
+![Burn-up](images/grafico_burn.png)
 
 ## Relatório de tarefas concluídas
 
