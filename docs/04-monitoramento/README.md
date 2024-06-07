@@ -66,13 +66,14 @@
 ![Insight - Mês Abril](images/insight-abril.png)
 
 **Insight - Mês Junho**
+
 ![Insight - Mês Abril](images/insight-maio.png)
 
 ## Burn-up do projeto
 
-......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
+<!-- ......  ATUALIZE A IMAGEM AO FIM DO PROJETO ...... -->
 
-> No Scrum, o gráfico burn-up é uma ferramenta utilizada para visualizar o progresso acumulado de um time em relação às entregas planejadas ao longo do tempo. 
+<!-- > No Scrum, o gráfico burn-up é uma ferramenta utilizada para visualizar o progresso acumulado de um time em relação às entregas planejadas ao longo do tempo. 
 > Esse gráfico é construído com base em duas linhas principais: a linha de escopo total do projeto (geralmente representada por uma linha reta ascendente) e a linha de trabalho concluído pelo time (geralmente representada por uma linha que se acumula ao longo do tempo). 
 > A interseção entre essas duas linhas revela o progresso real do projeto.
 > 
@@ -80,16 +81,16 @@
 > Se a linha de trabalho concluído se mantém abaixo da linha de escopo total, pode indicar que o projeto está atrasado.
 > Por outro lado, se a linha de trabalho concluído se mantém acima da linha de escopo total, isto pode indicar que o projeto está adiantado em relação ao planejado.
 
-![Burn-up](images/burn-up.png)
+![Burn-up](images/burn-up.png) -->
 ![Burn-up](images/grafico_burn.png)
 
 ## Relatório de tarefas concluídas
 
-......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
+<!-- ......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
 
 > O relatório de tarefas concluídas por pessoa é oferece uma visão do desempenho individual dos membros da equipe em relação às atividades atribuídas durante um sprint ou durante o projeto. 
 > Ao detalhar as tarefas concluídas por cada membro da equipe, o relatório permite uma análise mais precisa da distribuição de carga de trabalho, participação na realização das mesmas, identificação de possíveis gargalos ou pessoas que não estão contribuindo de forma adequada.
 > Este relatório poderá ser utilizado para definição de notas individuais aos alunos, diferentes daquelas definidas para o grupo.
 
-![Relatório de tarefas concluídas](images/tarefas-concluidas.png)
+![Relatório de tarefas concluídas](images/tarefas-concluidas.png) -->
 ![Relatório de tarefas concluídas](images/tarefas_concluidas.png)
