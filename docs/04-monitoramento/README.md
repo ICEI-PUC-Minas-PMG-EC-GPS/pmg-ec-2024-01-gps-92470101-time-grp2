@@ -92,3 +92,4 @@
 > Este relatório poderá ser utilizado para definição de notas individuais aos alunos, diferentes daquelas definidas para o grupo.
 
 ![Relatório de tarefas concluídas](images/tarefas-concluidas.png)
+![Relatório de tarefas concluídas](images/tarefas_concluidas.png)
