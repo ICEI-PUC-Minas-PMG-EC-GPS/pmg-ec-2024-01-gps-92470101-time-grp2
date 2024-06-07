@@ -79,6 +79,6 @@ Para a arquitetura do sistema foi optado pela abordagem monolítica, pois, apesa
 
 ## Persistência dos Dados
 
-![Diagrama de Banco de Dados](images/Banco_de_dados_spectro_budy.png.png)
+![Diagrama de Banco de Dados](images/projeto_database.png)
 
 
