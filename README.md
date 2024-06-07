@@ -41,7 +41,7 @@ Fases do Gerenciamento do Projeto:
 
 > A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
 
-[![Imagem do Trabalho]()
+[![Link do vídeo](https://www.youtube.com/watch?v=J64qsx4fvUY)
 )](https://www.youtube.com/watch?v=J64qsx4fvUY)
 
 <!-- ## Informações Adicionais
