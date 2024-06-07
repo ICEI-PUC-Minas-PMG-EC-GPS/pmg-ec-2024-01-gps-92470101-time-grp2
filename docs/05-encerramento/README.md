@@ -11,7 +11,7 @@
 - [Fase de Encerramento](#encerramento)
 - [Encerramento do Projeto](#encerramento-do-projeto)
 - [Lições Aprendidas](#lições-aprendidas)
-- [Auto-avaliação](#auto)
+- [Auto-avaliação](#auto-avaliação)
 - [Sugestões e Críticas](#sugestões-e-críticas)
 
 # Encerramento do Projeto
