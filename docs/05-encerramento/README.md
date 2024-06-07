@@ -34,7 +34,7 @@ A jornada para o desenvolvimento nos gerou vários aprendizados, tal como a util
 # Auto-avaliação
 
 - **Gabriel Luís**: a respeito da disciplina, sinto que a matéria poderia ter sido ministrada de maneira diferente, em que ao invés de simular a criação de um projeto aplicando os conceitos de gerência, acredito que realizar estudos de casos de projetos existentes teria sido mais interessante. A partir disso, apontaria-se possíveis falhas e/ou acertos na gerência do projeto pelas empresas. Ainda assim, sinto que a disciplina contribuiu pro meu crescimento profissional, uma vez que abordou metodologias recorrentes do mercado de trabalho. Contudo, reconheço que me comprometi pouco com a matéria quando em comparação com outras disciplinas.
-- **Leonardo Pizani**:
+- **Leonardo Pizani**: Sobre a disciplina, achei-a benéfica para o meu crescimento profissional, pois me mostrou como gerenciar um projeto. No entanto, achei as atividades muito repetitivas; às vezes, senti que estava fazendo a mesma atividade várias vezes durante algumas semanas, o que me fez perder um pouco de interesse na matéria.
 - **Paula Talim**:
 - **Rafael Vicente**:
 
