@@ -41,8 +41,8 @@ Fases do Gerenciamento do Projeto:
 
 > A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
 
-[![Imagem do Trabalho](![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-grp2/assets/119641230/4f341122-1964-4ac3-98ad-c1e1e0dfa656)
-)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho]()
+)](https://www.youtube.com/watch?v=J64qsx4fvUY)
 
 <!-- ## Informações Adicionais
 
