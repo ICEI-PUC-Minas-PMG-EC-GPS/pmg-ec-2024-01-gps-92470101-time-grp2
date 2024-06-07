@@ -46,6 +46,7 @@ Sobre a disciplina, achei-a benéfica para o meu crescimento profissional, pois 
 Acerca da disciplina, percebi que as atividades durante a aula, frequentemente, eram longas, extrapolando o horário e prejudicando as aulas seguintes e tal situação poderia ser solucionada aplicando atividades menores ou mais divididas. No mais a disciplina me trouxe muitos conhecimentos não só de gerência de projetos, mas de organização de tarefas e prototipação de interfaces, algo que irei levar para minha vida profissional e pessoal. Em retrospecto, sinto que me dediquei e fiz o meu melhor, dentro da minha capacidade para a matéria.
 
 ### Rafael Vicente
+Sobre a diciplina, achei as atividades repetitivas e cansativas, tendo em vista o tamanho das mesmas e um pouco da falta de coerência em gerenciar um projeto que não é realizado de fato, acredito que essa diciplina poderia esta aclopada juntamente a alguma diciplina que o porjeto é realizado de fato, como por exemplo a matéria de IOT, Dispositivos móveis e etc. No entanto, é positivo que a disciplina tenha abordado metodologias pertinentes para o mercado de trabalho, o que certamente contribui para o seu crescimento profissional.
 
 
 
